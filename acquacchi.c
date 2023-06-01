@@ -24,7 +24,7 @@ int main() {
     setbuf(stdout, NULL);
     
     printf("♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜\n\n");
-    printf("Welcome to Acquacchi!\nType 'play' to play Acquacchi in terminal.\n\n");
+    printf("Welcome to My 3rd Chess AI attempt!\nType 'play' to play AI in terminal.\n\n");
     printf("♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜\n\n");
     
     char line[256];
